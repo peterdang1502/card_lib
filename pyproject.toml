@@ -1,10 +1,10 @@
 [project]
-name = "card"
-version = "0.0.3"
+name = "standard_playing_card"
+version = "0.0.1"
 authors = [
   { name="Peter Dang", email="peterhdangg@gmail.com" },
 ]
-description = "A package for creating playing cards"
+description = "A Python module for creating French-suited standard playing card."
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [

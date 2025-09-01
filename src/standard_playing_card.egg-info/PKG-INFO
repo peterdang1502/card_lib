@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
-Name: card
-Version: 0.0.3
-Summary: A package for creating playing cards
+Name: standard_playing_card
+Version: 0.0.1
+Summary: A Python module for creating French-suited standard playing card.
 Author-email: Peter Dang <peterhdangg@gmail.com>
 License-Expression: MIT
 Project-URL: Homepage, https://github.com/pypa/sampleproject
@@ -13,4 +13,4 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 Dynamic: license-file
 
-Package for creating playing cards.
+A Python module for creating French-suited standard playing card.

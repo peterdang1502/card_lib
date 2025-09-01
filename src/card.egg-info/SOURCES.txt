@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/card/__init__.py
-src/card/card.py
-src/card.egg-info/PKG-INFO
-src/card.egg-info/SOURCES.txt
-src/card.egg-info/dependency_links.txt
-src/card.egg-info/top_level.txt
